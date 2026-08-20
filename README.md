@@ -5,4 +5,4 @@ README.md
 # Facebook: S.J. Urbano
 
 ## Q1
-[Zodiac Code Exercise] (Q1/zodiacBerylliumURBANO.md)
+[Zodiac Code Exercise] (https://github.com/sjburb/9berylliumcs3/blob/main/Q1/zodiacBerylliumURBANO.md)

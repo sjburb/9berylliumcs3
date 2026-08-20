@@ -1,5 +1,6 @@
 #Zodiac Code Exercise
 
+```python
 birth = int(input("Enter your birth year: "))
 
 if birth < 1900:
@@ -21,7 +22,7 @@ def zodiac_sign(birth):
         12: "Pig (猪 / Zhū)"
     }
 
-    sign = (birth - 4)% 12+ 1
+    sign = (birth - 4) % 12 + 1
     print(f"Your Chinese Zodiac sign is: {zodiac[sign]}")
 
 zodiac_sign(birth)

@@ -3,3 +3,5 @@ README.md
 # 9 - Berryllium
 # E-Mail: sjburbano@brc.pshs.edu.ph
 # Facebook: S.J. Urbano
+
+[Zodiac Code Exercise] (Q1/zodiacBerylliumURBANO.md)

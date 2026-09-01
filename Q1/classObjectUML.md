@@ -17,8 +17,8 @@
 | Load Game | Load a game. |
 
 ## Class Diagram
-![Class Diagram](images/classDiagram.png)
+![Class Diagram](https://github.com/sjburb/9berylliumcs3/blob/main/Q1/classObjectUML.png)
 ## Design Explanation
-### Why did you choose this class?
-### Which property is the most important? Why?
-### Which method is the most useful? Why?
+### Why did you choose this class? I recently played on my video game console and spent the whole day on it.
+### Which property is the most important? Why? Model because it specifies what console it actually is.
+### Which method is the most useful? Why? Power on because you cannot do anything else if you don't power it on.

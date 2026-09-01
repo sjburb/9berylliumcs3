@@ -17,7 +17,7 @@
 | Load Game | Load a game. |
 
 ## Class Diagram
-![Class Diagram](https://github.com/sjburb/9berylliumcs3/blob/main/Q1/classObjectUML.png)
+![Class Diagram](https://github.com/sjburb/9berylliumcs3/blob/main/Q1/classObjectUML%20(1).png)
 ## Design Explanation
 ### Why did you choose this class? I recently played on my video game console and spent the whole day on it.
 ### Which property is the most important? Why? Model because it specifies what console it actually is.

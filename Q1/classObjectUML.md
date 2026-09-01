@@ -3,6 +3,7 @@
 ## A class that shows the properties a video game console has.
 ## Properties
 | Property | Data Type | Description |
+|---|---|---|
 | Generation | int | The generation of the console. |
 | Brand | string | What brand the console is. |
 | Model | string | The model of the game console. |
@@ -11,6 +12,7 @@
 
 ## Methods
 | Method | Description |
+|---|---|---|
 | Power On | Turn on the console. |
 | Load Game | Load a game. |
 

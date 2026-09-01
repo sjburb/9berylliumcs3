@@ -12,7 +12,7 @@
 
 ## Methods
 | Method | Description |
-|---|---|---|
+|---|---|
 | Power On | Turn on the console. |
 | Load Game | Load a game. |
 

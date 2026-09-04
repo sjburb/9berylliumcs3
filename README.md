@@ -5,7 +5,7 @@ README.md
 # Facebook: S.J. Urbano
 
 ## Q1
-[Zodiac Code] (https://github.com/sjburb/9berylliumcs3/blob/main/Q1/zodiacBerylliumURBANO.md) <br>
-[CT Skills Exercise] (https://github.com/sjburb/9berylliumcs3/blob/main/Q1/ctskillsBerylliumURBANO.md) <br>
-[ILA 3] (https://github.com/sjburb/9berylliumcs3/blob/main/Q1/ila_oop.md) <br>
-[OOPAct] (https://github.com/sjburb/9berylliumcs3/blob/main/Q1/classObjectUML.md) <br>
+[Zodiac Code](.Q1/zodiacBerylliumURBANO.md) <br>
+[CT Skills Exercise](.Q1/ctskillsBerylliumURBANO.md) <br>
+[ILA 3](.Q1/ila_oop.md) <br>
+[OOPAct](.Q1/classObjectUML.md) <br>

@@ -2,7 +2,7 @@
 
 ## Previous Design
 Link to my previous activity:
-[classObjectUML.md](Q1/classObjectUML.md)
+![classObjectUML.md](Q1/classObjectUML.md)
 
 ## Design Revision
 
@@ -19,13 +19,13 @@ Removed methods Power On and Load Game and replaced them download_game, upgrade_
 | Price | int | Public | Public so it is accessible in selling it. |
 
 ## Updated UML Class Diagram
-[Class Diagram](Q1/Images%20Folder/classDiagramSG5.png)
+![Class Diagram](Q1/Images%20Folder/classDiagramSG5.png)
 
 ## Python Implementation
-[View Python Source](Q1/classImplementation.py)
+![View Python Source](Q1/classImplementation.py)
 
 ## Test Run
-[Test Run](Q1/Images%20Folder/classTestRun.png)
+![Test Run](Q1/Images%20Folder/classTestRun.png)
 
 ## Object Diagram
 ![Object Diagram](Q1/Images%20Folder/objectDiagram.png)

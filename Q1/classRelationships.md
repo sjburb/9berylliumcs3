@@ -18,7 +18,7 @@ Explanation: A console has many games.
 ## UML Class Relationship Diagram
 ![Class Relationship Diagram](Q1/Images%20Folder/classRelationshipDiagram.png)
 ## Python Implementation
-[View Python Source](Q1/classRelationships.py)
+[View Python Source](classRelationships.py)
 ## Test Run
 ![Relationship Test Run](Q1/Images%20Folder/relationshipTestRun.png)
 ## Object Relationship Diagram

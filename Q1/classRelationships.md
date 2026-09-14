@@ -1,7 +1,7 @@
 # Class Relationships: Association and Multiplicity
-## ![Previous Work](Q1/classAttributesMethods.md)
-![Part I - Classes and Objects](Q1/classObjectUML.md)
-![Part II - Class Attributes and Methods](Q1/classAttributesMethods.md)
+## [Previous Work](Q1/classAttributesMethods.md)
+[Part I - Classes and Objects](classObjectUML.md)
+[Part II - Class Attributes and Methods](classAttributesMethods.md)
 ## Existing Class
 Class: Video Game Console
 Description: A class that shows the properties a video game console has.

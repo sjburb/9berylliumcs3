@@ -10,3 +10,4 @@ README.md
 [ILA 3](Q1/ila_oop.md) <br>
 [OOPAct](Q1/classObjectUML.md) <br>
 [OOPAct2](Q1/classAttributesMethods.md) <br>
+[OOPAct3](Q1/classRelationships.md) <br>

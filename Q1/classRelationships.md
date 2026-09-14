@@ -1,5 +1,5 @@
 # Class Relationships: Association and Multiplicity
-## [Previous Work](Q1/classAttributesMethods.md)
+## [Previous Work](classAttributesMethods.md)
 [Part I - Classes and Objects](classObjectUML.md)
 [Part II - Class Attributes and Methods](classAttributesMethods.md)
 ## Existing Class

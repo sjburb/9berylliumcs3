@@ -3,17 +3,17 @@
 [Part I - Classes and Objects](classObjectUML.md) <br>
 [Part II - Class Attributes and Methods](classAttributesMethods.md)
 ## Existing Class
-Class: Video Game Console
+Class: Video Game Console <br>
 Description: A class that shows the properties a video game console has.
 ## New Related Class
-Class: Games
+Class: Games <br>
 Description: A class that shows the attributes a game has.
 ## Association
-Relationship: Console -> Game
+Relationship: Console -> Game <br>
 Explanation: A Console has many Games, because multiple games can be played on one console.
 ## Multiplicity 
 
-Multiplicity: One to Many
+Multiplicity: One to Many <br>
 Explanation: A console has many games.
 ## UML Class Relationship Diagram
 ![Class Relationship Diagram](Images%20Folder/classRelationshipDiagram.png)

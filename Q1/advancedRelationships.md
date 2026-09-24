@@ -4,22 +4,22 @@
 [classRel](classRelationships.md)
 ## Existing System Description:
 ## Inheritance Relationship
-Parent:
-Child:
-Explanation:
+Parent: Console <br>
+Child: GamingConsole <br>
+Explanation: GamingConsole share attributes with Console.
 ## Inheritance UML
-![Inheritance](images/inheritanceDiagram.png)
+![Inheritance](Images%20Folder/inheritanceDiagram.png)
 ## Composition/Aggregation
-Relationship:
-Explanation:
+Relationship: Aggregation - GamingConsole has Games <br>
+Explanation: The class GamingConsole has the class Games which is an independent class.
 ## Advanced UML Diagram
-![Advanced UML](images/advancedClassDiagram.png)
+![Advanced UML](Images%20Folder/advancedClassDiagram.png)
 ## Python Implementation
 [Source Code](advancedRelationships.py)
 ## Test Run
-![Test](images/advancedTestRun.png)
+![Test](Images%20Folder/advancedTestRun.png)
 ## Object Diagram
-![Objects](images/advancedObjectDiagram.png)
+![Objects](Images%20Folder/advancedObjectDiagram.png)
 
 ## Reflection
 1. Why did you choose your inheritance relationship? Explain why your child class is a type of your

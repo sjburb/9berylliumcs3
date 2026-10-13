@@ -12,3 +12,6 @@ README.md
 - [OOPAct2](Q1/classAttributesMethods.md)
 - [OOPAct3](Q1/classRelationships.md)
 - [OOPAct4](Q1/advancedRelationships.md)
+
+## Q2
+- [Encapsulation](Q2/sg8_encapsulation.py)

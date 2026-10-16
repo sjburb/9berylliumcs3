@@ -39,3 +39,12 @@ print("                                   ")
 print(f"Account {len(accounts_list)}")
 print(f"Account Number: {accounts_list[0].get_account_number()}")
 print(f"Balance: {accounts_list[0].get_balance():.2f}")
+
+#What this code does is it creates a class called "BankAccount" with these attributes: "account_number", "balance", "set_account number", "set_balance", "get_account_number", "get_balance".
+#The attribute "account_number" is for the account number of the bank account, for example "12345", while "balance" is the amount of money inside the bank account, for example 1000.
+#The method "set_account_number" is a way to change the account number of the bank account to a specific number.
+#The method "set_balance" is a method to change the balance of the bank account to a specific account. It does not let the balance be less than zero.
+#The method "get_account_number" is used display the account nummber of the bank account. It is protected by a password to provide basic privacy.
+#The method "get_balance" is function used to display the balance of the bank account.
+#"accounts_list" is a list to determine what account is the object. For example a1 is the first bank account, hence it is Account 1.
+#"a1" is a sample object that uses the "BankAccount" class. It's account number is "12345" and its balance is "1000". It is appended to the "accounts_list" so it can be idnetified as Accoun 1.

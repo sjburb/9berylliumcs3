@@ -14,4 +14,5 @@ README.md
 - [OOPAct4](Q1/advancedRelationships.md)
 
 ## Q2
-- [Encapsulation](Q2/sg8_encapsulation.py)
+- [Encapsulation](Q2/sg8_encapsulation.py) <br>
+- [Inheritance](Q2/sg9_inheritance.py) <br>

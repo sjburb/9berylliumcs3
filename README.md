@@ -17,4 +17,5 @@ README.md
 - [Encapsulation](Q2/sg8_encapsulation.py) <br>
 - [Inheritance](Q2/sg9_inheritance.py) <br>
 - [Method Override](Q2/sg10_methodoverride.py) <br>
-- [Polymorphism Activity 1](Q2/sg11_polymorphismactivity1.py)
+- [Polymorphism - Activity 1](Q2/sg11_polymorphismactivity1.py)
+- [Polymorphism - Activity 2](Q2/sg11_polymorphismactivity2.py)
